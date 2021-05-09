@@ -8,7 +8,7 @@ https://seanplusplus.github.io/image-grid/
 
 ```
 git clone git@github.com:SeanPlusPlus/image-grid.git
-cd image grid
+cd image-grid
 yarn install
 yarn start
 ```
