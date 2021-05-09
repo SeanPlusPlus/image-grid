@@ -2,6 +2,8 @@
 
 Display images of varying heights in 3 columns, such that the column height balances out
 
+https://seanplusplus.github.io/image-grid/
+
 ### Setup
 
 ```
