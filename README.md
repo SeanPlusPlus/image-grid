@@ -4,9 +4,11 @@ Display images of varying heights in 3 columns, such that the column height bala
 
 https://seanplusplus.github.io/image-grid/
 
-### Setup
+### Local Setup
 
 ```
+git clone git@github.com:SeanPlusPlus/image-grid.git
+cd image grid
 yarn install
 yarn start
 ```
