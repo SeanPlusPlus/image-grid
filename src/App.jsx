@@ -10,6 +10,8 @@ function App() {
     <div className="container">
       <div className="row">
         <Header total={total} />
+      </div>
+      <div className="row">
         <Columns total={total} />
       </div>
     </div>
